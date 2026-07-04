@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.2e5a3af4.css",
-    "main.js": "/static/js/main.6d28ba81.js",
-    "static/media/soup.jpg": "/static/media/soup.21a964bd7e8a1e173773.jpg",
-    "static/media/fish.jpg": "/static/media/fish.4bcbda19e2fa865e84ab.jpg",
-    "static/media/tea.jpg": "/static/media/tea.f31d107b05b2688f7013.jpg",
-    "static/media/githerii.jpg": "/static/media/githerii.2b233eeccf25985e884a.jpg",
-    "static/media/coffee.jpeg": "/static/media/coffee.6f91320ddef915099696.jpeg",
-    "static/media/pilau.jpg": "/static/media/pilau.6d4f5a8f9f2b5fe1b58d.jpg",
-    "static/media/chicken.jpg": "/static/media/chicken.9c2c07b5d1cbe7b15288.jpg",
-    "static/media/juice.jpg": "/static/media/juice.5f81b7db701391f491d5.jpg",
-    "index.html": "/index.html",
-    "main.2e5a3af4.css.map": "/static/css/main.2e5a3af4.css.map",
-    "main.6d28ba81.js.map": "/static/js/main.6d28ba81.js.map"
+    "main.css": "/campuseats/static/css/main.2e5a3af4.css",
+    "main.js": "/campuseats/static/js/main.87c23a54.js",
+    "static/media/soup.jpg": "/campuseats/static/media/soup.21a964bd7e8a1e173773.jpg",
+    "static/media/fish.jpg": "/campuseats/static/media/fish.4bcbda19e2fa865e84ab.jpg",
+    "static/media/tea.jpg": "/campuseats/static/media/tea.f31d107b05b2688f7013.jpg",
+    "static/media/githerii.jpg": "/campuseats/static/media/githerii.2b233eeccf25985e884a.jpg",
+    "static/media/coffee.jpeg": "/campuseats/static/media/coffee.6f91320ddef915099696.jpeg",
+    "static/media/pilau.jpg": "/campuseats/static/media/pilau.6d4f5a8f9f2b5fe1b58d.jpg",
+    "static/media/chicken.jpg": "/campuseats/static/media/chicken.9c2c07b5d1cbe7b15288.jpg",
+    "static/media/juice.jpg": "/campuseats/static/media/juice.5f81b7db701391f491d5.jpg",
+    "index.html": "/campuseats/index.html",
+    "main.2e5a3af4.css.map": "/campuseats/static/css/main.2e5a3af4.css.map",
+    "main.87c23a54.js.map": "/campuseats/static/js/main.87c23a54.js.map"
   },
   "entrypoints": [
     "static/css/main.2e5a3af4.css",
-    "static/js/main.6d28ba81.js"
+    "static/js/main.87c23a54.js"
   ]
 }

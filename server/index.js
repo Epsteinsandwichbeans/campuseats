@@ -9,9 +9,9 @@ const PORT = process.env.PORT || 5000;
 
 // Middleware - More permissive CORS for development
 app.use(cors({
-  origin: 'http://localhost:3000',
-  credentials: true,
-  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+  origin: ['http://campuseatscom.netlify.app'],
+   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+   credentials: true,
   allowedHeaders: ['Content-Type', 'Authorization']
 }));
 
